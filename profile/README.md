@@ -88,7 +88,7 @@ Github: https://kdt-gitlab.elice.io/sw_track/class_03/web_project_2/team9
 
 ### 💻 Front-End
 
-![TS.png](/profile/assets/TS.png)
+<img src='/profile/assets/TS.png' width='250px' />
 
 **TypeScript**
 
