@@ -305,11 +305,7 @@ Github: https://kdt-gitlab.elice.io/sw_track/class_03/web_project_2/team9
 
 | 이름 | 역할 | 담당 역할 | Contact |
 | --- | --- | --- | --- |
-| 오승하 | 팀장, BE, 기획 | 1. 프로젝트 총괄 리딩
-2. Google OAuth 2.0 및 JWT 적용 
-3. Client, Server 배포
-4. 게시글 작성 기능 구현
-5. 리뷰 작성 기능 구현 
+| 오승하 | 팀장, BE, 기획 | 1. 프로젝트 총괄 리딩 <br> 2. Google OAuth 2.0 및 JWT 적용 <br> 3. Client, Server 배포 <br> 4. 게시글 작성 기능 구현 <br> 5. 리뷰 작성 기능 구현 
 5-1. 리뷰 작성을 위한 게시글 랜덤 매칭 기능 구현
 6. 포인트 차감, 증정 기능 구현 
 7. 평점 계산 로직 및 랭킹 기능 구현 
