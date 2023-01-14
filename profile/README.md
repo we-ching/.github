@@ -2,10 +2,10 @@
 <img src='/profile/assets/introIMG.png'/>
 
 Github: https://kdt-gitlab.elice.io/sw_track/class_03/web_project_2/team9 <br>
-백엔드: 오승하, 이수호
-서비스 소개: 익명 칭찬 웹앱 서비스
-서비스 이름: 위칭WeChing
-프론트엔드: 김윤수, 김창민, 박재훈, 정상진, 황정현
+백엔드: 오승하, 이수호 <br>
+서비스 소개: 익명 칭찬 웹앱 서비스<br>
+서비스 이름: 위칭WeChing<br>
+프론트엔드: 김윤수, 김창민, 박재훈, 정상진, 황정현<br>
 
 ## **목차**
 
