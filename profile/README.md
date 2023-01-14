@@ -1,3 +1,4 @@
+<img src='/profile/assets/introIMG.png'/>
 # [SW 3기] 9팀
 
 Github: https://kdt-gitlab.elice.io/sw_track/class_03/web_project_2/team9
