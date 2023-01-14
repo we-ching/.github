@@ -1,7 +1,7 @@
 # [SW 3기] 9팀
 <img src='/profile/assets/introIMG.png'/>
 
-Github: https://kdt-gitlab.elice.io/sw_track/class_03/web_project_2/team9
+Github: https://kdt-gitlab.elice.io/sw_track/class_03/web_project_2/team9 <br>
 백엔드: 오승하, 이수호
 서비스 소개: 익명 칭찬 웹앱 서비스
 서비스 이름: 위칭WeChing
