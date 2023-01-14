@@ -1,5 +1,5 @@
-<img src='/profile/assets/introIMG.png'/>
 # [SW 3기] 9팀
+<img src='/profile/assets/introIMG.png'/>
 
 Github: https://kdt-gitlab.elice.io/sw_track/class_03/web_project_2/team9
 백엔드: 오승하, 이수호
