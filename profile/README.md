@@ -297,29 +297,9 @@
 | 이름 | 역할 | 담당 역할 | Contact |
 | --- | --- | --- | --- |
 | 오승하 | 팀장, BE, 기획 | 1. 프로젝트 총괄 리딩 <br> 2. Google OAuth 2.0 및 JWT 적용 <br> 3. Client, Server 배포 <br> 4. 게시글 작성 기능 구현 <br> 5. 리뷰 작성 기능 구현 <br> 5-1. 리뷰 작성을 위한 게시글 랜덤 매칭 기능 구현 <br> 6. 포인트 차감, 증정 기능 구현 <br> 7. 평점 계산 로직 및 랭킹 기능 구현 <br> 8. postgreSQL aws rds 생성 <br> 9. ERD 설계 | noshel8197@gmail.com <br> https://github.com/AhGnuesHo |
-| 김윤수 | FE, 기획 | 1. 랜딩 페이지 - 컨텐츠 제작 및 스크롤링 이펙트 구현 <br> 2. 북마크 페이지 - 카드 컬렉션 타입 북마크 UI 기획 및 기능 구현 <br> 3. 더보기 페이지 - UI 및 기능 구현 <br> 4. svg 아이콘 컴포넌트를 활용한 네비게이션 바 제작 <br> 5. PC/모바일 반응형 설계 <br> 6. figma 활용 전페이지 UI/UX 디자인 | yoons100457@gmail.com
-https://github.com/snowriceDD |
-| 김창민 | FE, 기획 | 1. 랭킹 페이지 (메인 및 세부 랭킹) UI 및 기능 구현 <br> 2. 마이페이지 - 회원정보 조회/수정/탈퇴 구현 <br> 3. 마이페이지 - 월별 별점 포인트 기능 구현 <br> 4. 관리자 페이지 - 공지사항 생성/조회/삭제 기능 구현 <br> 5. 관리자 페이지 - 신고 관리 페이지 기능 구현 <br> 6. 관리자 로그인 유무에 따른 관리자 페이지 이동 버튼 구현 | jinttack@naver.com
-https://github.com/wink68 |
-| 박재훈 | FE, 기획 | 1.  메인 페이지 UI 개발
-2.  메인 페이지 - main/user API (칭찬하기, 칭찬받기),  advice API (명언) 데이터 불러오기 기능 구현
-3.  메인 페이지 - 새로운 리뷰 알림 기능 및 페이지 구현 | wogns205@gmail.com
-https://github.com/noorong |
-| 이수호 | BE, 기획 | 1. 메인페이지 - 한줄 명언 API 구현
-2. 관리자페이지 - 공지사항 API 구현
-3. 내가쓴글 - 별점 평가,북마크 저장,해제 , 신고 기능 구현
-4. ERD 설계 | yeek0620@gmail.com
-https://github.com/yisuho |
-| 정상진 | FE, 기획 | 1. 비회원/회원가입 페이지 UI
-2. 내가 쓴 글 목록 , 내가 쓴 글 (글 + 받은칭찬) UI
-3. 내가 쓴 글 - 받은 칭찬 별점평가,북마크저장,신고 기능 구현
-4. OAuth 2.0 - google login 프론트 부분 데이터 가공
-5. JWT 토큰 활용한 로그인/로그아웃 (Cookie) 구현
-6. 받은 칭찬 유무/개수 에 따른 목록 표시 기능 구현 | lkg70007@gmail.com
-https://github.com/tangjinlog/algorithm
-
- |
-| 황정현 | FE, 기획 | 1. 게시글 작성 페이지 - 글 작성, 랜덤 글쓰기 팁 구현, 작성 글 임시저장 및 이어쓰기 기능 구현
-2. 리뷰 작성 페이지 - 글 작성, 받은 칭찬 보여주기 기능 구현
-3. 공지사항 페이지 - 무한스크롤 구현 | 1004wipi@gmail.com
-https://github.com/ghkd1418 |
+| 김윤수 | FE, 기획 | 1. 랜딩 페이지 - 컨텐츠 제작 및 스크롤링 이펙트 구현 <br> 2. 북마크 페이지 - 카드 컬렉션 타입 북마크 UI 기획 및 기능 구현 <br> 3. 더보기 페이지 - UI 및 기능 구현 <br> 4. svg 아이콘 컴포넌트를 활용한 네비게이션 바 제작 <br> 5. PC/모바일 반응형 설계 <br> 6. figma 활용 전페이지 UI/UX 디자인 | yoons100457@gmail.com <br> https://github.com/snowriceDD |
+| 김창민 | FE, 기획 | 1. 랭킹 페이지 (메인 및 세부 랭킹) UI 및 기능 구현 <br> 2. 마이페이지 - 회원정보 조회/수정/탈퇴 구현 <br> 3. 마이페이지 - 월별 별점 포인트 기능 구현 <br> 4. 관리자 페이지 - 공지사항 생성/조회/삭제 기능 구현 <br> 5. 관리자 페이지 - 신고 관리 페이지 기능 구현 <br> 6. 관리자 로그인 유무에 따른 관리자 페이지 이동 버튼 구현 | jinttack@naver.com <br> https://github.com/wink68 |
+| 박재훈 | FE, 기획 | 1.  메인 페이지 UI 개발 <br> 2.  메인 페이지 - main/user API (칭찬하기, 칭찬받기),  <br> advice API (명언) 데이터 불러오기 기능 구현 <br> 3.  메인 페이지 - 새로운 리뷰 알림 기능 및 페이지 구현 | wogns205@gmail.com <br> https://github.com/noorong |
+| 이수호 | BE, 기획 | 1. 메인페이지 - 한줄 명언 API 구현 <br> 2. 관리자페이지 - 공지사항 API 구현 <br> 3. 내가쓴글 - 별점 평가,북마크 저장,해제 , 신고 기능 구현 <br> 4. ERD 설계 | yeek0620@gmail.com <br> https://github.com/yisuho |
+| 정상진 | FE, 기획 | 1. 비회원/회원가입 페이지 UI <br> 2. 내가 쓴 글 목록 , 내가 쓴 글 (글 + 받은칭찬) UI <br>  3. 내가 쓴 글 - 받은 칭찬 별점평가,북마크저장,신고 기능 구현 <br> 4. OAuth 2.0 - google login 프론트 부분 데이터 가공 <br> 5. JWT 토큰 활용한 로그인/로그아웃 (Cookie) 구현 <br> 6. 받은 칭찬 유무/개수 에 따른 목록 표시 기능 구현 | lkg70007@gmail.com <br> https://github.com/tangjinlog |
+| 황정현 | FE, 기획 | 1. 게시글 작성 페이지 - 글 작성, 랜덤 글쓰기 팁 구현, <br> 작성 글 임시저장 및 이어쓰기 기능 구현 <br> 2. 리뷰 작성 페이지 - 글 작성, 받은 칭찬 보여주기 기능 구현 <br> 3. 공지사항 페이지 - 무한스크롤 구현 | 1004wipi@gmail.com <br> https://github.com/ghkd1418 |
